@@ -1,0 +1,6 @@
+{
+  "name": "Pioneers of Africa's Future Portal",
+  "description": "Pan-African pioneer registry, community forums, certificate generator, and advisor platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
